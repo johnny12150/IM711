@@ -6,6 +6,29 @@
 
 </head>
 <body>
-    <p>Today is {{word}} </p>
+<!-- 加上filter的處理，變成全大寫 -->
+<p>Today is {{word|upper}} </p>
+<!-- 取消處理對html < > 等特殊字元的escape -->
+<p>Today is {{word|safe}} </p>
+<!-- if/else在模板中的使用 -->
+{% if word=='word'%}
+<h1>word</h1>
+<!-- 可以沒有 else/ elif, 但必定要有 endif -->
+{% endif %}
+<!-- for loop在模板中的使用 -->
+{% for i in [1, 2, 3] %}
+<blockquote>{{i}}</blockquote>
+{% endfor %}
+
+<tr>
+    <!-- 巨集(類似function) -->
+    {% macro display_table() %}
+        <td>{{word}}</td>
+    {% endmacro %}
+    <!-- call marco -->
+    <table>
+        {{ display_table() }}
+    </table>
+</tr>
 </body>
 </html>
