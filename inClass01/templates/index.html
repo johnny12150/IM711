@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% block title %} {{index}} {% endblock %}
+<!-- super()會延伸block內的內容 -->
+{% block content %}
+{{super()}}
+{{index01}}
+{% endblock %}
