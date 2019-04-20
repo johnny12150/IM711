@@ -11,6 +11,10 @@
     
     * 0316:  error handle & bootstrap
     * 0330: form & table & python sqlite
-    
-2. 爬蟲
+#### inClass02 
+**課程日期: 2019/04/13 & 2019/04/20 & 2019/04/6**  
+
+1. SQLite
+2. BeautifulSoup
+   0420.ipynb
 
