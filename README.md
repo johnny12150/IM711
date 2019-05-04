@@ -11,10 +11,14 @@
     
     * 0316:  error handle & bootstrap
     * 0330: form & table & python sqlite
+    
 ### inClass02 
 **課程日期: 2019/04/13 & 2019/04/20 & 2019/04/27 & 2019/04/6**  
 
 1. SQLite
 2. BeautifulSoup, Regex Expression
    0420.ipynb
-
+   
+### inClass03
+**課程日期: 2019/05/4**
+1. 進階爬蟲(不含scrapy)
