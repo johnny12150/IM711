@@ -12,8 +12,8 @@ jupyterlab = "*"
 beautifulsoup4 = "*"
 requests = "*"
 selenium = "*"
-scrapy = "*"
 pywin32 = "*"
+scrapy = "*"
 
 [requires]
 python_version = "3.7"
