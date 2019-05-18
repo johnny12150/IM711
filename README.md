@@ -20,7 +20,9 @@
    0420.ipynb
    
 ### inClass03
-**課程日期: 2019/05/4 & 2019/05/11**
+**課程日期: 2019/05/4 & 2019/05/11 & 2019/05/18**
 1. 進階爬蟲(不含scrapy)
-2. Scrapy
+2. Scrapy, 2019/05/18
+
+https://1drv.ms/w/s!Aigohf1HXs8UjnMxjzD0jbKiyU4a
 > 需要安裝 **Visual Studio 2019的C++**
