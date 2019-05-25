@@ -26,3 +26,9 @@
 
 https://1drv.ms/w/s!Aigohf1HXs8UjnMxjzD0jbKiyU4a
 > 需要安裝 **Visual Studio 2019的C++**
+
+### inClass04
+**課程日期: 2019/05/25**
+1. PPT Ch12 (done)
+2. Hw01
+3. PPT Ch13
